@@ -1403,7 +1403,7 @@
             "dist": {
                 "type": "path",
                 "url": "packages/itk-dev/user-management-bundle",
-                "reference": "97e6c3406af97d283b1b3f50f23cff40dcf38b9c"
+                "reference": "0940f658562397fc3d26d29145b1840d8b25a156"
             },
             "require": {
                 "friendsofsymfony/user-bundle": "^2.1",
